@@ -1,0 +1,8 @@
+{
+    "extensions.experimental.affinity": {
+        "": ""
+    },
+    "emmet.extensionsPath": [
+        "html"
+    ]
+}
